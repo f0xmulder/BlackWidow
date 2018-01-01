@@ -1,0 +1,11 @@
+C:\Users\ugurd\source\repos\BlackWidow\Client\bin\Debug\Client.exe.config
+C:\Users\ugurd\source\repos\BlackWidow\Client\bin\Debug\Client.exe
+C:\Users\ugurd\source\repos\BlackWidow\Client\bin\Debug\Client.pdb
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.ClientMain.resources
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.Viewer.resources
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.exe
+C:\Users\ugurd\source\repos\BlackWidow\Client\obj\Debug\Client.pdb
